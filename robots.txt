@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-q6py51.cuo-tachevyplan.top/sitemap.xml
